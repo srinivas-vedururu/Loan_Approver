@@ -4,6 +4,9 @@
 This project implements a machine learning model to predict loan eligibility based on user-provided financial and personal data. The model uses a dataset (`loan_data.csv`) and employs the XGBoost classifier to determine whether an individual qualifies for a loan. The notebook includes data preprocessing, feature engineering, model training, and a user input system for real-time predictions.
 
 The project is implemented in Python using a Jupyter Notebook and leverages libraries such as `pandas`, `sklearn`, `xgboost`, and `matplotlib` for data manipulation, modeling, and visualization.
+# 💻Working Demo 
+## My Streamlit App
+Try out my Streamlit app: [Loan Approver](https://srinivas-vedururu-loan-approver-app-emjmfx.streamlit.app/)
 
 ## Features
 - **Data Preprocessing**: Handles missing data, encodes categorical variables, and scales numerical features.
@@ -90,4 +93,4 @@ Congrats You Are Eligible For Loan
 
 ## Acknowledgments
 - Uses open-source libraries: `pandas`, `sklearn`, `xgboost`, and more.
-<h1 align="center"><b>Thank You</b></h1>
+<h1 align="center"><b>Thank You!</b></h1>
